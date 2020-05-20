@@ -38,9 +38,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>CQLive</groupId>
+      <groupId>com.kapplication</groupId>
       <artifactId>xulApp</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
