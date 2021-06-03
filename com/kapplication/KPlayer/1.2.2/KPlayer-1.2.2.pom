@@ -62,6 +62,18 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>CQLive</groupId>
+      <artifactId>xulApp</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>CQLive</groupId>
+      <artifactId>xul</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.kapplication</groupId>
       <artifactId>Common</artifactId>
       <version>1.0</version>
