@@ -3,10 +3,11 @@
   <groupId>com.kapplication</groupId>
   <artifactId>CityPicker</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0-for-BD</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0-for-BD</version>
     </versions>
-    <lastUpdated>20200518085001</lastUpdated>
+    <lastUpdated>20210707081401</lastUpdated>
   </versioning>
 </metadata>
