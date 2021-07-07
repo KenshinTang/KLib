@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kapplication</groupId>
   <artifactId>CityPicker</artifactId>
-  <version>1.0.1-for-BD</version>
+  <version>1.0.2-for-BD</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
