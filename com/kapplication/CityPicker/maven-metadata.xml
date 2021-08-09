@@ -3,7 +3,7 @@
   <groupId>com.kapplication</groupId>
   <artifactId>CityPicker</artifactId>
   <versioning>
-    <release>1.1.1-for-BD</release>
+    <release>1.1.2-for-BD</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-for-BD</version>
@@ -18,7 +18,8 @@
       <version>1.0.9-for-BD</version>
       <version>1.1.0-for-BD</version>
       <version>1.1.1-for-BD</version>
+      <version>1.1.2-for-BD</version>
     </versions>
-    <lastUpdated>20210730095423</lastUpdated>
+    <lastUpdated>20210809091417</lastUpdated>
   </versioning>
 </metadata>
