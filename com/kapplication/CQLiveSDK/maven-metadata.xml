@@ -3,7 +3,7 @@
   <groupId>com.kapplication</groupId>
   <artifactId>CQLiveSDK</artifactId>
   <versioning>
-    <release>android4.4</release>
+    <release>android4.4-20211213</release>
     <versions>
       <version>1.2.9</version>
       <version>1.3.1</version>
@@ -34,7 +34,8 @@
       <version>1.5.5</version>
       <version>1.5.6</version>
       <version>1.5.7</version>
+      <version>android4.4-20211213</version>
     </versions>
-    <lastUpdated>20211213094413</lastUpdated>
+    <lastUpdated>20211213100331</lastUpdated>
   </versioning>
 </metadata>
