@@ -3,9 +3,9 @@
   "Msg": "",
   "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
   "VersionCode": 381,
-  "VersionName": "1.0.2",
-  "ModifyContent": "1. xxxxxxxxxx \n 2. yyyyyyyyyy\n 3.zzzzzzz",
+  "VersionName": "3.0.0",
+  "ModifyContent": "1.优化操作流程,自动获取资源\n2.支持第三方应用三指滑屏\n3.支持方向盘第三方应用播控",
   "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/v2.0.5/FloatingBall-release-V2.0.5-Build380-20230621.apk",
-  "ApkSize": 2048,
-  "ApkMd5": ""  //Ӧ??apk??md5ֵû?еĻ??????޷???֤apk?Ƿ???????ÿ?ζ??????????ء?
+  "ApkSize": 57700,
+  "ApkMd5": "47b4a2f9ef98f776c3fbcb196965a901"
 }
