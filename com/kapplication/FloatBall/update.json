@@ -1,11 +1,11 @@
 {
-  "Code": 0, //0´ú±íÇëÇó³É¹¦£¬·Ç0´ú±íÊ§°Ü
-  "Msg": "", //ÇëÇó³ö´íµÄĞÅÏ¢
-  "UpdateStatus": 1, //0´ú±í²»¸üĞÂ£¬1´ú±íÓĞ°æ±¾¸üĞÂ£¬²»ĞèÒªÇ¿ÖÆÉı¼¶£¬2´ú±íÓĞ°æ±¾¸üĞÂ£¬ĞèÒªÇ¿ÖÆÉı¼¶
+  "Code": 0, //0æˆåŠŸ, å…¶ä»–å¤±è´¥
+  "Msg": "",
+  "UpdateStatus": 1, //0ä¸å‡çº§,1æ™®é€šå‡çº§,2å¼ºåˆ¶å‡çº§
   "VersionCode": 381,
   "VersionName": "1.0.2",
-  "ModifyContent": "1¡¢ÓÅ»¯api½Ó¿Ú¡£\r\n2¡¢Ìí¼ÓÊ¹ÓÃdemoÑİÊ¾¡£\r\n3¡¢ĞÂÔö×Ô¶¨Òå¸üĞÂ·şÎñAPI½Ó¿Ú¡£\r\n4¡¢ÓÅ»¯¸üĞÂÌáÊ¾½çÃæ¡£",
-  "DownloadUrl": "https://raw.githubusercontent.com/xuexiangjys/XUpdate/master/apk/xupdate_demo_1.0.2.apk",
+  "ModifyContent": "1. xxxxxxxxxx \n 2. yyyyyyyyyy\n 3.zzzzzzz",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/v2.0.5/FloatingBall-release-V2.0.5-Build380-20230621.apk",
   "ApkSize": 2048,
-  "ApkMd5": ""  //Ó¦ÓÃapkµÄmd5ÖµÃ»ÓĞµÄ»°£¬¾ÍÎŞ·¨±£Ö¤apkÊÇ·ñÍêÕû£¬Ã¿´Î¶¼»áÖØĞÂÏÂÔØ¡£
+  "ApkMd5": ""  //Ó¦??apk??md5ÖµÃ»?ĞµÄ»??????Ş·???Ö¤apk?Ç·???????Ã¿?Î¶??????????Ø¡?
 }
