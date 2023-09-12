@@ -2,7 +2,7 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
-  "VersionCode": 381,
+  "VersionCode": 380,
   "VersionName": "3.0.0",
   "ModifyContent": "1.优化操作流程,自动获取资源\n2.支持第三方应用三指滑屏\n3.支持方向盘第三方应用播控",
   "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/v2.0.5/FloatingBall-debug-V3.0.1-Build381-20230912.apk",
