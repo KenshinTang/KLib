@@ -2,10 +2,10 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
-  "VersionCode": 380,
+  "VersionCode": 381,
   "VersionName": "3.0.0",
-  "ModifyContent": "1.优化操作流程,自动获取资源\n2.支持第三方应用三指滑屏\n3.支持方向盘第三方应用播控",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/v2.0.5/FloatingBall-debug-V3.0.1-Build381-20230912.apk",
+  "ModifyContent": "1.升级测试\n2.修复重启方向盘失效的问题",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/v3.0.0/FloatingBall-release-V3.0.0-Build381-20230914.apk",
   "ApkSize": 57700,
-  "ApkMd5": "866f6e017db302de8a04ec62258e5517"
+  "ApkMd5": "c55bee93a5d42333a5ca6e23fd04835f"
 }
