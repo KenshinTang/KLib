@@ -4,8 +4,8 @@
   "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
   "VersionCode": 381,
   "VersionName": "3.0.0",
-  "ModifyContent": "1.升级测试\n2.修复重启方向盘失效的问题",
+  "ModifyContent": "1.支持三指滑屏\n2.支持方向盘接管(默认关闭,需要手动双击悬浮球开启)\n3.免激活",
   "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/v3.0.0/FloatingBall-release-V3.0.0-Build381-20230914.apk",
-  "ApkSize": 57700,
-  "ApkMd5": "c55bee93a5d42333a5ca6e23fd04835f"
+  "ApkSize": 48816,
+  "ApkMd5": "03db0fbb5965f4d29fa2cefad068224d"
 }
