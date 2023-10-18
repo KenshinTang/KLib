@@ -1,7 +1,7 @@
 {
   "Code": 0, //0成功, 其他失败
   "Msg": "",
-  "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
+  "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
   "VersionCode": 381,
   "VersionName": "3.0.0",
   "ModifyContent": "1.支持三指滑屏\n2.支持方向盘接管(默认关闭,需要手动双击悬浮球开启)\n3.免激活",
