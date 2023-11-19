@@ -1,7 +1,7 @@
 {
   "Code": 0, //0成功, 其他失败
   "Msg": "",
-  "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
+  "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
   "VersionCode": 430,
   "VersionName": "3.4.0",
   "ModifyContent": "1.适配新Free和新梦想家\n2.新增桌面卡片功能\n3.新增安装服务",
