@@ -2,10 +2,10 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
-  "VersionCode": 383,
-  "VersionName": "3.1.3",
-  "ModifyContent": "1.新增IP显示\n2.新增应用卸载\n3.新增显示设置\n4.修复闪退bug",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.1.3/FloatingBall-release-V3.1.3-Build383-20231018.apk",
-  "ApkSize": 49773,
-  "ApkMd5": "f2a794a7afcd0d6c8b922bccc72b92dd"
+  "VersionCode": 430,
+  "VersionName": "3.4.0",
+  "ModifyContent": "1.适配新Free和新梦想家\n2.新增桌面卡片功能\n3.新增安装服务",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.4.0/FloatingBall-release-V3.4.0-Build430-20231119.apk",
+  "ApkSize": 71955,
+  "ApkMd5": "29e2e7f6020f5c4355ac033f2b91578c"
 }
