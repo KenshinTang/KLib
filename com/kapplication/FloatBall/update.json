@@ -2,10 +2,10 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
-  "VersionCode": 430,
-  "VersionName": "3.4.0",
-  "ModifyContent": "1.适配新Free和新梦想家\n2.新增桌面卡片功能\n3.新增安装服务",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.4.0/FloatingBall-release-V3.4.0-Build430-20231119.apk",
-  "ApkSize": 71955,
-  "ApkMd5": "29e2e7f6020f5c4355ac033f2b91578c"
+  "VersionCode": 450,
+  "VersionName": "3.5.0",
+  "ModifyContent": "1.新增应用商城\n2.优化方向盘接管\n3.优化卡片",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.5.0/FloatingBall-release-V3.5.0-Build500.apk",
+  "ApkSize": 74419,
+  "ApkMd5": "080b2ff2112b6db03234ca3c9a81440a"
 }
