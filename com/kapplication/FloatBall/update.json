@@ -2,10 +2,10 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
-  "VersionCode": 450,
-  "VersionName": "3.5.0",
-  "ModifyContent": "1.新增应用商城\n2.优化方向盘接管\n3.优化卡片",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.5.0/FloatingBall-release-V3.5.0-Build500.apk",
+  "VersionCode": 460,
+  "VersionName": "3.6.0",
+  "ModifyContent": "1.新款车型放开应用商店权限\n2.新增语音控制",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.6.0/FloatingBall-release-V3.6.0-Build560-20240104.apk",
   "ApkSize": 74419,
-  "ApkMd5": "080b2ff2112b6db03234ca3c9a81440a"
+  "ApkMd5": "22122d05281e37df1f920b6d1e44f785"
 }
