@@ -2,7 +2,7 @@
   "Code": 0, //0成功, 其他失败
   "Msg": "",
   "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
-  "VersionCode": 460,
+  "VersionCode": 560,
   "VersionName": "3.6.0",
   "ModifyContent": "1.新款车型放开应用商店权限\n2.新增语音控制",
   "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.6.0/FloatingBall-release-V3.6.0-Build560-20240104.apk",
