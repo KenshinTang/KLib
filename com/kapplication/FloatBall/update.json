@@ -1,11 +1,11 @@
 {
   "Code": 0, //0成功, 其他失败
   "Msg": "",
-  "UpdateStatus": 1, //0不升级,1普通升级,2强制升级
-  "VersionCode": 570,
-  "VersionName": "3.7.0",
-  "ModifyContent": "1.支持长按APP图标在副屏打开APP\n2.支持自定义左侧导航栏APP\n3.优化新Free和新梦左侧导航栏的显示\n4.修复若干问题",
-  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.7.0/FloatingBall-release-V3.7.0-Build570-20240227.apk",
+  "UpdateStatus": 2, //0不升级,1普通升级,2强制升级
+  "VersionCode": 587,
+  "VersionName": "3.7.7",
+  "ModifyContent": "1.去掉'回家'和'去公司'的路况显示\n2.优化体验",
+  "DownloadUrl": "https://gitee.com/KenshinTang/float-ball-doc/releases/download/V3.7.7/FloatingBall-release-V3.7.7-Build587-20240429.apk",
   "ApkSize": 74419,
-  "ApkMd5": "9f72e2dd9702fa6a83dcc03ffb119c77"
+  "ApkMd5": "d233a3ec7b71d586250628770a6308cc"
 }
